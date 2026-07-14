@@ -11,7 +11,7 @@ The result of a relational operation is always a **boolean** value:
 * `true`
 * `false`
 
----
+--- 
 
 ### Types of Relational Operators
 
