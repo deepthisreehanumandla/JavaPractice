@@ -1,4 +1,4 @@
-## 77-81) Exception Handling, Multiple Catch, Exception Hierarchy, `throw` & Custom Exception
+## 77-81) Exception Handling, Multiple Catch, Exception Hierarchy, `throw` & Custom Exception 
 
 ### Purpose
 - Handle runtime errors without terminating the program.
